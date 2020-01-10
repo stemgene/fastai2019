@@ -6,6 +6,8 @@
 
 [Notes](https://github.com/fastai/course-v3/tree/master/files/dl-2019/notes)
 
+[Chinese notes](https://github.com/hiromis/notes/tree/master/chinese)
+
 ### fastai2018
 
 [Chinese notes](https://github.com/apachecn/fastai-ml-dl-notes-zh/tree/master/zh)
